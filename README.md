@@ -24,40 +24,39 @@ Installation
 ## Build your first PHP Chart
 - Run the web folder in your browser. e.g. http://localhost/dashboarduiler following welcome screen will appear
 
-![Screen1](https://github.com/DashboardBuilder/chart-builder/blob/master/php-dashboard-screen1.png)
 <img src="https://raw.githubusercontent.com/DashboardBuilder/chart-builder/master/php-dashboard-screen1.png"/>
 
 - To Create a new Chart, Click the **``New``**  button under the Dashboard Menu.
 
-![Screen2](https://github.com/DashboardBuilder/chart-builder/blob/master/php-dashboard-screen2.png)
+<img src="https://raw.githubusercontent.com/DashboardBuilder/chart-builder/master/php-dashboard-screen2.png"/>
 
 - The following screen will appear, click **``Yes``**   to create a new Dashboard
 
-![Screen3](https://github.com/DashboardBuilder/chart-builder/blob/master/php-dashboard-screen3.png)
+<img src="https://raw.githubusercontent.com/DashboardBuilder/chart-builder/master/php-dashboard-screen3.png"/>
 
 - Click **``Layout``**  to extend the layout menu and select **``One Column``**
 
-![Screen3b](https://github.com/DashboardBuilder/chart-builder/blob/master/php-dashboard-screen3b.png)
+<img src="https://raw.githubusercontent.com/DashboardBuilder/chart-builder/master/php-dashboard-screen3b.png"/>
 
 - Following screen will appear. Now Click the Database icon  
 
-![Screen4](https://github.com/DashboardBuilder/chart-builder/blob/master/php-dashboard-screen4.png)
+<img src="https://raw.githubusercontent.com/DashboardBuilder/chart-builder/master/php-dashboard-screen4.png"/>
 
 - Following screen will appear. Select Database from data source tab. Select SQLite from the drop down list of Database, Enter your ''../data/Northwind.db'' in the DB name field and **``Save changes``** as mentioned in the screen.
 
-![Screen5](https://github.com/DashboardBuilder/chart-builder/blob/master/php-dashboard-screen5.png)
+<img src="https://raw.githubusercontent.com/DashboardBuilder/chart-builder/master/php-dashboard-screen5.png"/>
 
 - A green tick mark with Database  will appear when your database is successfully connected.
 
-![Screen7](https://github.com/DashboardBuilder/chart-builder/blob/master/php-dashboard-screen7.png)
+<img src="https://raw.githubusercontent.com/DashboardBuilder/chart-builder/master/php-dashboard-screen7.png"/>
 
 - Select the gear icon for your Dashboard preference.
 
-![Screen8](https://github.com/DashboardBuilder/chart-builder/blob/master/php-dashboard-screen8.png)
+<img src="https://raw.githubusercontent.com/DashboardBuilder/chart-builder/master/php-dashboard-screen8.png"/>
 
 - The following screen will appear. List of the tables will appear.
 
-![Screen8b](https://github.com/DashboardBuilder/chart-builder/blob/master/php-dashboard-screen8b.png)
+<img src="https://raw.githubusercontent.com/DashboardBuilder/chart-builder/master/php-dashboard-screen8b.png"/>
 
 - Enter your SQL statement in text box, SQL field as the following manner
 
@@ -65,21 +64,21 @@ Installation
 
 - Click the **``Run Query``** button
 
-![Screen8c](https://github.com/DashboardBuilder/chart-builder/blob/master/php-dashboard-screen8c.png)
+<img src="https://raw.githubusercontent.com/DashboardBuilder/chart-builder/master/php-dashboard-screen8c.png"/>
 
 
 - Query Result will appear. Now Select your x-axis data from the drop down list of **``X``**  and y-axis data from the drop down list of **``Y``** .
 - Click **``Save Changes``**
 
-![Screen9](https://github.com/DashboardBuilder/chart-builder/blob/master/php-dashboard-screen9.png)
+<img src="https://raw.githubusercontent.com/DashboardBuilder/chart-builder/master/php-dashboard-screen9.png"/>
 
 - Charts will be appeared on the screen as shown below.
 
-![Screen9b](https://github.com/DashboardBuilder/chart-builder/blob/master/php-dashboard-screen9b.png)
+<img src="https://raw.githubusercontent.com/DashboardBuilder/chart-builder/master/php-dashboard-screen9b.png"/>
 
 - Now extend the **``Generate``** button and click on the **``PHP Code``**
 
-![Screen9c](https://github.com/DashboardBuilder/chart-builder/blob/master/php-dashboard-screen9c.png)
+<img src="https://raw.githubusercontent.com/DashboardBuilder/chart-builder/master/php-dashboard-screen9c.png"/>
 
 - PHP code for the chart will automatically generate, you may copy past this code to your PHP application.
 
