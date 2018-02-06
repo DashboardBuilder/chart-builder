@@ -25,7 +25,7 @@ Installation
 - Run the web folder in your browser. e.g. http://localhost/dashboarduiler following welcome screen will appear
 
 ![Screen1](https://github.com/DashboardBuilder/chart-builder/blob/master/php-dashboard-screen1.png)
-<img src="https://github.com/DashboardBuilder/chart-builder/blob/master/php-dashboard-screen1.png"/>
+<img src="https://raw.githubusercontent.com/DashboardBuilder/chart-builder/master/php-dashboard-screen1.png"/>
 
 - To Create a new Chart, Click the **``New``**  button under the Dashboard Menu.
 
