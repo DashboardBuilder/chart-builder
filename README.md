@@ -36,7 +36,7 @@ Installation
 
 <img src="https://raw.githubusercontent.com/DashboardBuilder/chart-builder/master/php-dashboard-screen7.png"/>
 
-- Select the gear icon for your Dashboard preference.
+- Select the gear icon for your Chart preference.
 
 <img src="https://raw.githubusercontent.com/DashboardBuilder/chart-builder/master/php-dashboard-screen8.png"/>
 
@@ -60,7 +60,7 @@ Installation
 
 - Charts will be appeared on the screen as shown below.
 
-<img src="https://raw.githubusercontent.com/DashboardBuilder/chart-builder/master/php-dashboard-screen9b.png"/>
+<img src="https://raw.githubusercontent.com/DashboardBuilder/chart-builder/master/php-dashboard-screen0.png"/>
 
 - Now extend the **``Generate``** button and click on the **``PHP Code``**
 
