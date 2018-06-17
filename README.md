@@ -78,7 +78,7 @@ Installation
  * @author Diginix Technologies www.diginixtech.com
  * Support  - http://www.dashboardbuilder.net
  * @copyright (C) 2018 Dashboardbuilder.net
- * @version 2.1.2
+ * @version 2.1.7
  * @license: license.txt
  */
 
