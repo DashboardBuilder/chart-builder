@@ -38,10 +38,6 @@ Installation
 
 - Select the gear icon for your Dashboard preference.
 
-<img src="https://raw.githubusercontent.com/DashboardBuilder/chart-builder/master/php-dashboard-screen8.png"/>
-
-- The following screen will appear. List of the tables will appear.
-
 <img src="https://raw.githubusercontent.com/DashboardBuilder/chart-builder/master/php-dashboard-screen8b.png"/>
 
 - Enter your SQL statement in text box, SQL field as the following manner
