@@ -21,26 +21,12 @@ Installation
 2. Place the files in a directory on the web server. e.g. …/www/dashboar/dbuilder/
 3. Unzip  the file using Extract Here option to the root folder of "dashboardbuilder"
 
-## Build your first PHP Chart
-- Run the web folder in your browser. e.g. http://localhost/dashboarduiler following welcome screen will appear
+## Build your first Chart
+- Run the web folder in your browser. e.g. http://localhost/dashboarduiler following welcome screen will appear.
+- Now Click the Database icon.
 
 <img src="https://raw.githubusercontent.com/DashboardBuilder/chart-builder/master/php-dashboard-screen1.png"/>
 
-- To Create a new Chart, Click the **``New``**  button under the Dashboard Menu.
-
-<img src="https://raw.githubusercontent.com/DashboardBuilder/chart-builder/master/php-dashboard-screen2.png"/>
-
-- The following screen will appear, click **``Yes``**   to create a new Dashboard
-
-<img src="https://raw.githubusercontent.com/DashboardBuilder/chart-builder/master/php-dashboard-screen3.png"/>
-
-- Click **``Layout``**  to extend the layout menu and select **``One Column``**
-
-<img src="https://raw.githubusercontent.com/DashboardBuilder/chart-builder/master/php-dashboard-screen3b.png"/>
-
-- Following screen will appear. Now Click the Database icon  
-
-<img src="https://raw.githubusercontent.com/DashboardBuilder/chart-builder/master/php-dashboard-screen4.png"/>
 
 - Following screen will appear. Select Database from data source tab. Select SQLite from the drop down list of Database, Enter your ''../data/Northwind.db'' in the DB name field and **``Save changes``** as mentioned in the screen.
 
